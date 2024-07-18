@@ -23,7 +23,7 @@ namespace Calculytor
 
         private void оПрограммеToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Калькулятор;\nСобственность Попова Павла (Razor_Z_Pi);\nПродаже не подлежит, имейте в виду!!!)))", "О программе!!!");
+            MessageBox.Show("Калькулятор;\nСобственность Попова Павла Евгеньевича;\nПродаже не подлежит, имейте в виду!!!)))", "О программе!!!");
         }
 
         private void button1_Click(object sender, EventArgs e)
